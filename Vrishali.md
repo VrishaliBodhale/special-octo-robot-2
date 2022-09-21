@@ -11,6 +11,6 @@ $pwd
 $cd 
 ```
 
-- [x] task1 done
+- [ ] task1 done
 - [ ] task 2 
 - [ ] task 3
