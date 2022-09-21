@@ -1,5 +1,5 @@
 # Hello there 
-My name is Vrishali 
+My name is Vrishali Bodhale.
 I have added this demo file to the code 
 
 Checking few features of the GitHub
@@ -13,4 +13,3 @@ $cd
 
 - [ ] task1 done
 - [ ] task 2 
-- [ ] task 3
