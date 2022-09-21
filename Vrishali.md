@@ -8,6 +8,7 @@ Checking few features of the GitHub
 
 ```
 $pwd 
+$cd 
 ```
 
 - [x] task1 done
