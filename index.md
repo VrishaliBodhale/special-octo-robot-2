@@ -17,3 +17,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 Include input output hearder file
 ```
 
+- [x] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
